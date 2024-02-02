@@ -3,6 +3,7 @@ import { useState } from 'react'
 import './App.css'
 import Header from './components/Header'
 import Booking from './components/Booking'
+import Table from './components/Table'
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
       <Header/>
       <section className='h-screen'>
         <Booking/>
-        <div>Table</div>
+        <Table/>
         </section>
     </div>
   )

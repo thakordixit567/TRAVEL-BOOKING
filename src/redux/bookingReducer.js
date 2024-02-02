@@ -16,7 +16,7 @@ const bookingReducer = (state = initialState, action) => {
       return { data: filterData };
 
     default:
-      state;
+     return state;
   }
 };
 
