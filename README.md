@@ -3,6 +3,6 @@
 Using React Js , HTML, TAILWIND CSS AND REDUX.
 
 Demo is here:
-![image](https://github.com/thakordixit567/TRAVEL-BOOKING/tree/master/src/assets/Demo)
+![image](https://github.com/thakordixit567/TRAVEL-BOOKING/blob/master/src/assets/Demo/dixflight.png)
 
 
