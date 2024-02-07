@@ -1,8 +1,8 @@
-# React + Vite
+# TRVAELV - BOOKING WEB SYSTEM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Using React Js , HTML, TAILWIND CSS AND REDUX.
 
-Currently, two official plugins are available:
+Demo is here:
+![image](https://github.com/thakordixit567/DIX-STORE/blob/master/DIX-STORE-PRO/src/DEMO/Screenshot%20(201).png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
